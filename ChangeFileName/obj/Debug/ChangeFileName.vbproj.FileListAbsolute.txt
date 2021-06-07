@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\ChangeFileName\bin\Debug\ChangeFileName.exe.config
+C:\Users\LENOVO\source\repos\ChangeFileName\bin\Debug\ChangeFileName.exe
+C:\Users\LENOVO\source\repos\ChangeFileName\bin\Debug\ChangeFileName.pdb
+C:\Users\LENOVO\source\repos\ChangeFileName\bin\Debug\ChangeFileName.xml
+C:\Users\LENOVO\source\repos\ChangeFileName\obj\Debug\ChangeFileName.vbprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ChangeFileName\obj\Debug\ChangeFileName.Form1.resources
+C:\Users\LENOVO\source\repos\ChangeFileName\obj\Debug\ChangeFileName.Resources.resources
+C:\Users\LENOVO\source\repos\ChangeFileName\obj\Debug\ChangeFileName.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ChangeFileName\obj\Debug\ChangeFileName.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ChangeFileName\obj\Debug\ChangeFileName.exe
+C:\Users\LENOVO\source\repos\ChangeFileName\obj\Debug\ChangeFileName.xml
+C:\Users\LENOVO\source\repos\ChangeFileName\obj\Debug\ChangeFileName.pdb
